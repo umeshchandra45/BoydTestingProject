@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-24T17:09:59 IST" name="Suite" finished-at="2024-09-24T17:11:04 IST" duration-ms="64407">
+    <groups>
+    </groups>
+    <test started-at="2024-09-24T17:09:59 IST" name="Test" finished-at="2024-09-24T17:11:04 IST" duration-ms="64407">
+      <class name="com.Boyd.testCases.SchedulingSalesOrder">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Boyd.testCases.SchedulingSalesOrder@52719fb6]" started-at="2024-09-24T17:10:00 IST" name="setUp" finished-at="2024-09-24T17:10:20 IST" duration-ms="20638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="schedulingSalesOrder()[pri:0, instance:com.Boyd.testCases.SchedulingSalesOrder@52719fb6]" started-at="2024-09-24T17:10:20 IST" name="schedulingSalesOrder" finished-at="2024-09-24T17:11:04 IST" duration-ms="43318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- schedulingSalesOrder -->
+        <test-method is-config="true" signature="cleanup()[pri:0, instance:com.Boyd.testCases.SchedulingSalesOrder@52719fb6]" started-at="2024-09-24T17:11:04 IST" name="cleanup" finished-at="2024-09-24T17:11:04 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+      </class> <!-- com.Boyd.testCases.SchedulingSalesOrder -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
